@@ -1,4 +1,4 @@
-package com.solar.solar.dicom
+package com.solar.dicom
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

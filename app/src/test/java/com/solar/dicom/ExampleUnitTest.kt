@@ -1,4 +1,4 @@
-package com.solar.solar.dicom
+package com.solar.dicom
 
 import org.junit.Test
 
